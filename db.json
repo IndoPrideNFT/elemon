@@ -2,16 +2,16 @@
     "tokens": [
 {
     "id": 0,
-    "description": "Indo Pride Logo NFT",
-    "external_url": "https://statics.elemon.io/avatar/28/28_6_6_6_6_6_6.png",
-    "image": "https://statics.elemon.io/avatar/28/28_6_6_6_6_6_6.png",
-    "name": "MemeMon 0"
+    "description": "Elemon Indo Pride Logo NFT",
+    "external_url": "https://raw.githubusercontent.com/IndoPrideNFT/elemon/main/IndoPrideLogo.jpg",
+    "image": "https://raw.githubusercontent.com/IndoPrideNFT/elemon/main/IndoPrideLogo.jpg",
+    "name": "Elemon IndoPride Logo"
   },
   {
     "id": 1,
     "description": "MEET LEGOLAS – THE AUDACIOUS ORCA RAN AXTER",
-    "external_url": "https://raw.githubusercontent.com/RoyalCardNFT/NFT/main/legolas.png",
-    "image": "https://raw.githubusercontent.com/RoyalCardNFT/NFT/main/legolas.png",
+    "external_url": "https://raw.githubusercontent.com/IndoPrideNFT/elemon/main/legolas.png",
+    "image": "https://raw.githubusercontent.com/IndoPrideNFT/elemon/main/legolas.png",
     "name": "LEGOLAS"
   }
 ]
